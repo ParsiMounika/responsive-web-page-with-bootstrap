@@ -1,12 +1,11 @@
 body{
-    background-color: aqua;
+    background-color: aquamarine;
 }
 .image{
     background-color:white; 
     text-align: center;
-
     box-shadow: 2px 2px;
-    height: 60px;
+    height: 12vh;
 }
 .image-name{
     background-color: white;
